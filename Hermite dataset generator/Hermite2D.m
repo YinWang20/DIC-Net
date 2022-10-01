@@ -20,7 +20,7 @@ function [u_global, ux_global, uy_global, v_global, vx_global, vy_global] = Herm
 % the disp and strain range in paper, so as the v
 
 %% Extension
-% If you want to define your own element_size and image size, you shoule
+% If you want to define your own element_size and image size, you should only
 % change the corresponding parameter in the switch case function body, and
 % the u_global,ux_global,uy_global (so as v) size.
 switch element_size
