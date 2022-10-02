@@ -90,5 +90,5 @@ for i = 1:node-1
         vy_global(1+(i-1)*delta:1+delta*i,1+(j-1)*delta:1+delta*j) = vvy;
     end
 end
-% [u1, v1, uxx2, uyy2, vxx2, vyy2, rxy, timeused] = PointwiseLSSmooth(u_global, v_global, 21, 1, 3);
+
 
