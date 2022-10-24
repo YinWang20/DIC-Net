@@ -1139,6 +1139,17 @@ For more details, please refer to our paper: https://doi.org/10.1016/j.optlaseng
 * **Star6 strain predicted by DIC-Net-s**
 <img src="Images/demo3.PNG" alt="demo" title="demo">
 
+## Our Environment 
+### Matalb
+* R2020b
+* MATLAB Support for MinGW-w64 C/C++ Compiler
+### Python
+* python 3.0
+### CUDA 11.5
+### Pytorch 1.10
+### Numpy 1.20.3
+
+
 ## Citation
 @article{WANG2023107278,<br>
 title = {DIC-Net: Upgrade the performance of traditional DIC with Hermite dataset and convolution neural network},<br>
