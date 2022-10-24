@@ -1143,10 +1143,14 @@ For more details, please refer to our paper: https://doi.org/10.1016/j.optlaseng
 Matalb
 * R2020b
 * MATLAB Support for MinGW-w64 C/C++ Compiler
+
 Python
 * python 3.0
+
 CUDA 11.5
+
 Pytorch 1.10
+
 Numpy 1.20.3
 
 
