@@ -9,6 +9,8 @@ In the experimental test set with 3216 samples, DIC-Net-d achieves an absolute p
 ● **Frame of DIC-Net**
 <img src="Images/architechture.PNG" alt="Architechture" title="title">
 
+● **Frame of Hermite Dataset**
+<img src="Images/Hermite Dataset.PNG" alt="Dataset" title="title">
 
 
 
