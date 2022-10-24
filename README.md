@@ -1140,7 +1140,7 @@ For more details, please refer to our paper: https://doi.org/10.1016/j.optlaseng
 <img src="Images/demo3.PNG" alt="demo" title="demo">
 
 ## Our Environment 
-Matalb
+Matlab
 * R2020b
 * MATLAB Support for MinGW-w64 C/C++ Compiler
 
