@@ -1140,16 +1140,16 @@ For more details, please refer to our paper: https://doi.org/10.1016/j.optlaseng
 <img src="Images/demo3.PNG" alt="demo" title="demo">
 
 ## Citation
-@article{WANG2023107278,
-title = {DIC-Net: Upgrade the performance of traditional DIC with Hermite dataset and convolution neural network},
-journal = {Optics and Lasers in Engineering},
-volume = {160},
-pages = {107278},
-year = {2023},
-issn = {0143-8166},
-doi = {https://doi.org/10.1016/j.optlaseng.2022.107278},
-url = {https://www.sciencedirect.com/science/article/pii/S0143816622003311},
-author = {Yin Wang and Jiaqing Zhao}
+@article{WANG2023107278,<br>
+title = {DIC-Net: Upgrade the performance of traditional DIC with Hermite dataset and convolution neural network},<br>
+journal = {Optics and Lasers in Engineering},<br>
+volume = {160},<br>
+pages = {107278},<br>
+year = {2023},<br>
+issn = {0143-8166},<br>
+doi = {https://doi.org/10.1016/j.optlaseng.2022.107278},<br>
+url = {https://www.sciencedirect.com/science/article/pii/S0143816622003311},<br>
+author = {Yin Wang and Jiaqing Zhao}<br>
 }
 
 We're well underway to get the code in order, if you need any help, don't hesitate to contact me (yin-wang20@mails.tsinghua.edu.cn) or the corresponding author (jqzhao@mail.tsinghua.edu.cn) right away!
