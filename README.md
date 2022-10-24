@@ -6,6 +6,8 @@ Our method is currently the SOTA of 2D-DeepDIC method in terms of accuracy and s
 
 In the experimental test set with 3216 samples, DIC-Net-d achieves an absolute pixel error (MAE) score of 0.0130 pixels and 0.0126 pixels in the x direction and y direction which is only 48.5% and 47.9% of the prior best method. The spatial resolution (SR) is 17.25 pixels with a noise level of 0.0136, and the metrological performance indicator is 0.234 (lower is better) which outperforms existing traditional and non-traditional methods.
 
+For more details, please refer to our paper: https://doi.org/10.1016/j.optlaseng.2022.107278
+
 * **Frame of DIC-Net**
 <img src="Images/architechture.PNG" alt="Architechture" title="title">
 
