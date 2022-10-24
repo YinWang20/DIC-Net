@@ -1127,11 +1127,16 @@ For more details, please refer to our paper: https://doi.org/10.1016/j.optlaseng
  </tr>
 </tbody></table>
 
-## Demo predicted by DIC-Net and other two competitive models
+## Demo predicted by DIC-Net
+### Displacement prediction results compared with other two models
 * **Star5 displacement and noise level predicted by three networks.**
 <img src="Images/demo1.PNG" alt="demo" title="demo">
 
 * **Tensile plate with hole predicted by three networks.**
 <img src="Images/demo2.PNG" alt="demo" title="demo">
+
+### Strain prediction result
+* **Star6 strain predicted by DIC-Net-s**
+<img src="Images/demo3.PNG" alt="demo" title="demo">
 
 We're well underway to get the code in order, if you need any help, don't hesitate to contact me (yin-wang20@mails.tsinghua.edu.cn) or the corresponding author (jqzhao@mail.tsinghua.edu.cn) right away!
