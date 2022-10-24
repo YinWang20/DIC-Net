@@ -1,5 +1,5 @@
 # DIC-Net: Upgrade the Performance of Traditional DIC with Hermite Dataset and Convolution Neural Network
-Hermite dataset generation implementation (matlab) and DIC-Net CNN implementation (pytorch)
+Hermite dataset generation implementation (matlab) and DIC-Net CNN implementation (pytorch).
 
 ## Introduction
 Our method is currently the SOTA of 2D-DeepDIC method in terms of accuracy and spatial resolution(SR).<br>
