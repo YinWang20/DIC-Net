@@ -1153,6 +1153,15 @@ Pytorch 1.10
 
 Numpy 1.20.3
 
+## Pretrained model and Dataset
+DIC-Net-d
+* Goolge Drive:
+
+DIC-Net-s
+* Goolge Drive:
+
+Hermite Dataset
+* Goolge Drive:
 
 ## Citation
 @article{WANG2023107278,<br>
