@@ -1155,13 +1155,13 @@ Numpy 1.20.3
 
 ## Pretrained model and Dataset
 DIC-Net-d
-* Goolge Drive:
+* Google Drive:
 
 DIC-Net-s
-* Goolge Drive:
+* Google Drive:
 
 Hermite Dataset
-* Goolge Drive:
+* Google Drive:
 
 ## Citation
 @article{WANG2023107278,<br>
