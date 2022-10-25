@@ -1154,6 +1154,8 @@ Pytorch 1.10
 Numpy 1.20.3
 
 ## Pretrained model and Dataset
+**Note:** It is possible to obtain a more powerful DIC-Net by modifying the parameters of the Hermite element for retraining, so our model parameters would be continuously updated.
+
 DIC-Net-d
 * Google Drive:
 
