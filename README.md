@@ -1157,10 +1157,10 @@ Numpy 1.20.3
 **Note:** It is possible to obtain a more powerful DIC-Net by modifying the parameters of the Hermite element for retraining, so our model parameters would be continuously updated.
 
 DIC-Net-d
-* Google Drive:
+* Google Drive:https://drive.google.com/file/d/12bO8bZ3cX_3K3mPxer_IHWVJHx16mWJx/view?usp=share_link
 
 DIC-Net-s
-* Google Drive:
+* Google Drive:https://drive.google.com/file/d/19aZQrc-mnd5W8jYfn6DZmhDSZTKxdxaP/view?usp=share_link
 
 Hermite Dataset
 * Google Drive:
