@@ -1181,4 +1181,4 @@ url = {https://www.sciencedirect.com/science/article/pii/S0143816622003311},<br>
 author = {Yin Wang and Jiaqing Zhao}<br>
 }
 
-We're well underway to get the code in order, if you need any help, don't hesitate to contact me (yin-wang20@mails.tsinghua.edu.cn) or the corresponding author (jqzhao@mail.tsinghua.edu.cn) right away!
+We're well underway to get the code in order, if you need any help, don't hesitate to contact the corresponding author (jqzhao@mail.tsinghua.edu.cn) or me (yin-wang20@mails.tsinghua.edu.cn) right away!
