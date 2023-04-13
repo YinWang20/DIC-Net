@@ -8,7 +8,7 @@ def = imread(path1);
 figure(1)
 imshow(def)
 
-% Transform image for uint8 to double
+% Transform image from uint8 to double
 def = double(def);
 
 % Get random Hermite displacement
