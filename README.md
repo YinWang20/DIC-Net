@@ -1159,12 +1159,15 @@ The Version used in the paper is:
 
 DIC-Net-d
 * Google Drive:https://drive.google.com/file/d/12bO8bZ3cX_3K3mPxer_IHWVJHx16mWJx/view?usp=share_link
+* Baidu Netdisk：链接：https://pan.baidu.com/s/1bGbVPY6piE1XHQX7FPtR_A 提取码：7cqj
 
 DIC-Net-s
 * Google Drive:https://drive.google.com/file/d/19aZQrc-mnd5W8jYfn6DZmhDSZTKxdxaP/view?usp=share_link
+* Baidu Netdisk：链接：https://pan.baidu.com/s/1GfvhWms_5mLhN7zP1q0AXg 提取码：br61
 
 Hermite Dataset
 * Google Drive:
+* Baidu Netdisk：链接：https://pan.baidu.com/s/14KE8gOk81ETEEtKnFoc8Zw 提取码：90w1
 
 **Note:** It is possible to obtain a more powerful DIC-Net by modifying the parameters of the Hermite element for retraining, so our model parameters would be continuously updated.Refer to https://github.com/YinWang20/DIC-Net-pretrained-Models
 
