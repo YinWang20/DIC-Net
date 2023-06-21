@@ -1168,6 +1168,7 @@ DIC-Net-s
 Hermite Dataset
 * Google Drive:
 * Baidu Netdisk：链接：https://pan.baidu.com/s/14KE8gOk81ETEEtKnFoc8Zw 提取码：90w1
+The Hermite dataset provided here has a total of 85,700 image pairs, the first 42,900 pairs are used in our paper, please adjust as needed.
 
 **Note:** It is possible to obtain a more powerful DIC-Net by modifying the parameters of the Hermite element for retraining, so our model parameters would be continuously updated.Refer to https://github.com/YinWang20/DIC-Net-pretrained-Models
 
